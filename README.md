@@ -17,9 +17,17 @@ American Academy of Sleep Medicine(AASM) 기준을 적용하여 Wake-Light Sleep
 ### Step 2 : Training CNN
 [DatasetA]
 train data shape : (15139, 7, 15360)
+
+
 train label shape : (15139,)
+
+
 test data shape : (6489, 7, 15360)
+
+
 test label shape : (6489,)
+
+
 
 train 및 test는 hold-out approach로 진행했다. 
 
@@ -40,6 +48,8 @@ ECG 신호 특성 상 하나의 peak가 0.05sec라는 짧은 시간동안 발생
 ### Step 3 : Testing CNN
 [DatasetB-A]
 data shape : (7, 15360, 884)
+
+
 data label : (884,)
 
 
