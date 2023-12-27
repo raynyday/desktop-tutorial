@@ -25,6 +25,8 @@ American Academy of Sleep Medicine(AASM) 기준을 적용하여 Wake-Light Sleep
 3. 수면 구조 특성상 수면 단계의 수가 불평등한 class imbalance problem(CIP)가 존재해 Synthetic Minority Oversampling Technique(SMOTE)의 strategy 중 minority를 적용했다.
 
 ![image](https://github.com/raynyday/desktop-tutorial/assets/133008226/b9df08b9-26d5-4a46-8ab6-428b9fad7ac8)
+
+
 그림 1. input data
 
 ---
